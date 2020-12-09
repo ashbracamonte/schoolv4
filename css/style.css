@@ -1,0 +1,24 @@
+body{
+background-image:url(img/carrusellakeside.jpg) ;
+}
+
+.bg-img { 
+    background-color: rgb(13, 10, 54) ;
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    max-width: 100%;
+      max-height: max-content;
+    
+}
+.letra{
+  color:rgb(0, 0, 0);
+}
+
+.color{
+  color: rgb(19, 24, 68);
+}
+.pos{
+margin-right: 10px;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "schoolv4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ashbracamonte/schoolv4.git",
+  "author": "ashbracamonte <ashbracamonte12@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}

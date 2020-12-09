@@ -1,0 +1,16 @@
+{
+    "name": "ashbracamonte/schoolv4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ashbracamonte",
+            "email": "ashbracamonte12@hotmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.17",
+        "illuminate/events": "^8.17",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}
